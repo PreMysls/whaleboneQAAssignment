@@ -1,0 +1,356 @@
+{
+  "teams": [
+    {
+      "name": "Anaheim Ducks",
+      "location": "Anaheim",
+      "founded": 1993,
+      "firstYearOfPlay": 1993,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/ducks"
+    },
+    {
+      "name": "Arizona Coyotes",
+      "location": "Tempe",
+      "founded": 1972,
+      "firstYearOfPlay": 1979,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/hurricanes"
+    },
+    {
+      "name": "Boston Bruins",
+      "location": "Boston",
+      "founded": 1924,
+      "firstYearOfPlay": 1924,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/bruins"
+    },
+    {
+      "name": "Buffalo Sabres",
+      "location": "Buffalo",
+      "founded": 1970,
+      "firstYearOfPlay": 1970,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/sabres"
+    },
+    {
+      "name": "Calgary Flames",
+      "location": "Calgary",
+      "founded": 1972,
+      "firstYearOfPlay": 1972,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/flames"
+    },
+    {
+      "name": "Carolina Hurricanes",
+      "location": "Raleigh",
+      "founded": 1972,
+      "firstYearOfPlay": 1979,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/hurricanes"
+    },
+    {
+      "name": "Chicago Blackhawks",
+      "location": "Chicago",
+      "founded": 1926,
+      "firstYearOfPlay": 1926,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/blackhawks"
+    },
+    {
+      "name": "Colorado Avalanche",
+      "location": "Denver",
+      "founded": 1972,
+      "firstYearOfPlay": 1979,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/avalanche"
+    },
+    {
+      "name": "Columbus Blue Jackets",
+      "location": "Columbus",
+      "founded": 2000,
+      "firstYearOfPlay": 2000,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/bluejackets"
+    },
+    {
+      "name": "Dallas Stars",
+      "location": "Dallas",
+      "founded": 1967,
+      "firstYearOfPlay": 1967,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/stars"
+    },
+    {
+      "name": "Detroit Red Wings",
+      "location": "Detroit",
+      "founded": 1926,
+      "firstYearOfPlay": 1926,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/redwings"
+    },
+    {
+      "name": "Edmonton Oilers",
+      "location": "Edmonton",
+      "founded": 1972,
+      "firstYearOfPlay": 1979,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/oilers"
+    },
+    {
+      "name": "Florida Panthers",
+      "location": "Sunrise",
+      "founded": 1993,
+      "firstYearOfPlay": 1993,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/panthers"
+    },
+    {
+      "name": "Los Angeles Kings",
+      "location": "Los Angeles",
+      "founded": 1967,
+      "firstYearOfPlay": 1967,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/kings"
+    },
+    {
+      "name": "Minnesota Wild",
+      "location": "Saint Paul",
+      "founded": 2000,
+      "firstYearOfPlay": 2000,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/wild"
+    },
+    {
+      "name": "Montreal Canadiens",
+      "location": "Montreal",
+      "founded": 1909,
+      "firstYearOfPlay": 1917,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/fr/canadiens/"
+    },
+    {
+      "name": "Nashville Predators",
+      "location": "Nashville",
+      "founded": 1998,
+      "firstYearOfPlay": 1998,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/predators"
+    },
+    {
+      "name": "New Jersey Devils",
+      "location": "Newark",
+      "founded": 1974,
+      "firstYearOfPlay": 1974,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/devils"
+    },
+    {
+      "name": "New York Islanders",
+      "location": "New York",
+      "founded": 1972,
+      "firstYearOfPlay": 1972,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/islanders"
+    },
+    {
+      "name": "New York Rangers",
+      "location": "New York",
+      "founded": 1926,
+      "firstYearOfPlay": 1926,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/rangers"
+    },
+    {
+      "name": "Ottawa Senators",
+      "location": "Ottawa",
+      "founded": 1992,
+      "firstYearOfPlay": 1992,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/senators"
+    },
+    {
+      "name": "Philadelphia Flyers",
+      "location": "Philadelphia",
+      "founded": 1967,
+      "firstYearOfPlay": 1967,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/flyers"
+    },
+    {
+      "name": "Pittsburgh Penguins",
+      "location": "Pittsburgh",
+      "founded": 1967,
+      "firstYearOfPlay": 1967,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/penguins"
+    },
+    {
+      "name": "San Jose Sharks",
+      "location": "San Jose",
+      "founded": 1991,
+      "firstYearOfPlay": 1991,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/sharks"
+    },
+    {
+      "name": "Seattle Kraken",
+      "location": "Seattle",
+      "founded": 2021,
+      "firstYearOfPlay": 2021,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/kraken"
+    },
+    {
+      "name": "St. Louis Blues",
+      "location": "St. Louis",
+      "founded": 1967,
+      "firstYearOfPlay": 1967,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/blues"
+    },
+    {
+      "name": "Tampa Bay Lightning",
+      "location": "Tampa",
+      "founded": 1992,
+      "firstYearOfPlay": 1992,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/lightning"
+    },
+    {
+      "name": "Toronto Maple Leafs",
+      "location": "Toronto",
+      "founded": 1917,
+      "firstYearOfPlay": 1917,
+      "division": {
+        "id": 1,
+        "name": "Atlantic"
+      },
+      "officialSiteUrl": "https://www.nhl.com/mapleleafs"
+    },
+    {
+      "name": "Vancouver Canucks",
+      "location": "Vancouver",
+      "founded": 1945,
+      "firstYearOfPlay": 1970,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/hurricanes"
+    },
+    {
+      "name": "Vegas Golden Knights",
+      "location": "Las Vegas",
+      "founded": 2017,
+      "firstYearOfPlay": 2017,
+      "division": {
+        "id": 4,
+        "name": "Pacific"
+      },
+      "officialSiteUrl": "https://www.nhl.com/goldenknights"
+    },
+    {
+      "name": "Washington Capitals",
+      "location": "Washington",
+      "founded": 1974,
+      "firstYearOfPlay": 1974,
+      "division": {
+        "id": 2,
+        "name": "Metropolitan"
+      },
+      "officialSiteUrl": "https://www.nhl.com/capitals"
+    },
+    {
+      "name": "Winnipeg Jets",
+      "location": "Winnipeg",
+      "founded": 1999,
+      "firstYearOfPlay": 1999,
+      "division": {
+        "id": 3,
+        "name": "Central"
+      },
+      "officialSiteUrl": "https://www.nhl.com/jets"
+    }
+  ]
+}
